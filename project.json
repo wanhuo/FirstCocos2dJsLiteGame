@@ -1,0 +1,13 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+        "src/js/config/resource.js"
+        ,"src/js/config/config.js"
+        ,"src/js/gameplay/layer/backgroundLayer.js"
+        ,"src/js/gameplay/scene/gamePlay.js"
+        ,"src/js/main.js"
+    ]
+}
